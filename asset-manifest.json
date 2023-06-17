@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TheZonaxaReactApp/static/css/main.c3214aef.css",
+    "main.js": "/TheZonaxaReactApp/static/js/main.84d366c6.js",
+    "static/js/787.e65cb9dd.chunk.js": "/TheZonaxaReactApp/static/js/787.e65cb9dd.chunk.js",
+    "static/media/camera.png": "/TheZonaxaReactApp/static/media/camera.5039cdffbe626c7523fe.png",
+    "static/media/mouse.png": "/TheZonaxaReactApp/static/media/mouse.e480070e9bb1019f3e2f.png",
+    "static/media/iwatc.png": "/TheZonaxaReactApp/static/media/iwatc.9abb931958b0b621cbff.png",
+    "static/media/trex.png": "/TheZonaxaReactApp/static/media/trex.c8fb1701794b373dff96.png",
+    "static/media/occulus_vr.png": "/TheZonaxaReactApp/static/media/occulus_vr.ab9894abbb5673e20101.png",
+    "static/media/graphic.png": "/TheZonaxaReactApp/static/media/graphic.9bc4b5fb8de56ff9c45d.png",
+    "static/media/headphones.png": "/TheZonaxaReactApp/static/media/headphones.6cf1e8580995390e1122.png",
+    "static/media/laptop.webp": "/TheZonaxaReactApp/static/media/laptop.51ace962035f0af7e197.webp",
+    "static/media/iphone.png": "/TheZonaxaReactApp/static/media/iphone.fa882cc5318ecb821a88.png",
+    "static/media/samsungfold.webp": "/TheZonaxaReactApp/static/media/samsungfold.f36da8efe72dfe10acc1.webp",
+    "static/media/phone.png": "/TheZonaxaReactApp/static/media/phone.678b557431cd269e298a.png",
+    "index.html": "/TheZonaxaReactApp/index.html",
+    "main.c3214aef.css.map": "/TheZonaxaReactApp/static/css/main.c3214aef.css.map",
+    "main.84d366c6.js.map": "/TheZonaxaReactApp/static/js/main.84d366c6.js.map",
+    "787.e65cb9dd.chunk.js.map": "/TheZonaxaReactApp/static/js/787.e65cb9dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3214aef.css",
+    "static/js/main.84d366c6.js"
+  ]
+}
